@@ -1,5 +1,7 @@
 # Assignment1-ImageProcessing
 
+Gianluca Guagliardo Z#23442507
+
 % Read image into a workspace variable
 
 **img = imread('pengies.jpeg');**
